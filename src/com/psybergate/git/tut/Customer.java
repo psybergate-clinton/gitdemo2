@@ -19,7 +19,8 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return String.format("Customer [customerNum=%s, name=%s, dateOfBirth=%s]", customerNum, name, dateOfBirth);
+		//return String.format("Customer [customerNum=%s, name=%s, dateOfBirth=%s]", customerNum, name, dateOfBirth);
+		return "Mthokozisi";
 	}
 
 }
